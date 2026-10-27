@@ -1,0 +1,17 @@
+{
+  "name": "Purl Pal",
+  "short_name": "Purl Pal",
+  "description": "A cozy knitting and crochet row counter.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff6ee",
+  "theme_color": "#fff6ee",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
