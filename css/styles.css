@@ -196,7 +196,8 @@ button {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 8px;
-  margin-top: 14px;
+  /* Clear the big-plus 3D shadow (10px) plus breathing room */
+  margin-top: 28px;
 }
 
 .control-row button {
