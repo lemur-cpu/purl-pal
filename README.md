@@ -2,7 +2,9 @@
 
 A cozy little row counter for knitting and crochet. Tap once when you finish a row. A sheep hops. Your place stays put.
 
-Open `index.html` in a browser, or visit the GitHub Pages site after it is published.
+Use it here: https://lemur-cpu.github.io/purl-pal/
+
+Or open `index.html` in a browser.
 
 ## What it does
 
